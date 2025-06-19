@@ -51,4 +51,8 @@ It consists of :
 - **Test Accuracy Achieved:** ~70–75% (varies per run)
 - Visualized training vs. validation accuracy and loss
 
+# OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/1da08383-5d69-44b8-b2df-cd618b60c64c)
+
 
